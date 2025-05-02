@@ -1,5 +1,9 @@
 
+###
 
+<h1 align="center">Welcome to my GitHub!👋</h1>
+
+###
 <div align="center">
   <img height="350" src="https://i.imgur.com/qcdRLp5.gif"  />
 </div>
@@ -15,11 +19,7 @@
   </a>
 </div>
 
-###
 
-<h1 align="center">Welcome to my GitHub!👋</h1>
-
-###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
@@ -75,8 +75,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
 </div>
 
-###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
